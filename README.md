@@ -1,10 +1,16 @@
-### Hi there 👋
+##
+Oi, eu sou Sarah
 
 
 ## 🔗 Links
+
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarah-corbo/)
+##
 
+![Sarah's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarahcorbo&show_icons=true&theme=transparent)      
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahcorbo&hide_progress=true)
 
+##
 <!--
 **sarahcorbo/sarahcorbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
